@@ -1,0 +1,15 @@
+@"
+.gradle/
+.local/
+.idea/
+*.iml
+build/
+app/build/
+.externalNativeBuild/
+.cxx/
+captures/
+*.apk
+*.aab
+*.keystore
+"@ | Out-File -Encoding UTF8 .gitignore
+local.properties
