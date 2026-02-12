@@ -1,0 +1,8 @@
+This app uses Termux terminal-emulator and terminal-view libraries.
+
+Project: https://github.com/termux/termux-app
+License: GNU General Public License v3.0 (GPL-3.0)
+Copyright: Termux contributors
+
+You should have received a copy of the GPL-3.0 license along with this app.
+If not, see: https://www.gnu.org/licenses/gpl-3.0.html

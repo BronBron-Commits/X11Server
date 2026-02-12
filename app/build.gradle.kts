@@ -51,6 +51,8 @@ dependencies {
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
     implementation(libs.androidx.constraintlayout)
+    implementation("com.github.termux.termux-app:terminal-emulator:v0.118.3")
+    implementation("com.github.termux.termux-app:terminal-view:v0.118.3")
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

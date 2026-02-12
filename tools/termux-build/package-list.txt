@@ -1,0 +1,56 @@
+# Core Unix
+busybox
+coreutils
+findutils
+diffutils
+grep
+sed
+gawk
+tar
+gzip
+bzip2
+xz
+zip
+unzip
+util-linux
+procps
+which
+file
+
+# Editors
+less
+nano
+vim
+
+# Network
+curl
+wget
+openssh
+rsync
+git
+
+# Scripting
+python
+nodejs
+perl
+ruby
+
+# Dev
+clang
+make
+cmake
+pkg-config
+gdb
+lldb
+strace
+binutils
+
+# X11 stack
+xorg-xauth
+xorg-xhost
+xorg-xrandr
+xorg-xdpyinfo
+xorg-xset
+xorg-xprop
+xterm
+fontconfig

@@ -13,3 +13,4 @@ captures/
 *.keystore
 "@ | Out-File -Encoding UTF8 .gitignore
 local.properties
+.vscode/ 
